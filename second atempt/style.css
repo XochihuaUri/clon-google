@@ -1,0 +1,82 @@
+
+p {
+    font-size: larger;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 20px;
+}
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+#footer{
+    color: #70757a;
+    background-color: #f1ebeb;
+    font-size: 15px;
+    
+}
+
+#idioma{
+    border-bottom:0.4px solid #b8babd;
+}
+nav{
+    float: right;
+    margin-top: 5px;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+#photo-google{
+    display: block;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-top: 158px;
+}
+
+#icono-photo{
+    max-width: 15px;
+    max-height: 15px;
+}
+
+a{
+    padding: 15px;
+}
+
+input{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 20px;
+    height: 40px;
+    width: 70%;
+    border-radius: 20px;
+    border:solid 0.4px #f1ebeb;
+}
+
+#btn-acceder{
+    color:white;
+    width: 100px;
+    margin-left: 15px;
+    height: 35px;
+    border-radius: 4px;
+    border: 0px;
+    background-color: rgb(85, 85, 214);
+}
+
+.btn-input{
+    margin-top: 30px;
+    height: 38px;
+    border:0;
+    border-radius: 3px;
+    background-color: rgb(250, 246, 246);
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 20%;
+}

@@ -1,0 +1,1 @@
+/*<p>Ofrecido por Google en: <a href="wwww.google.com">English</a></p>*/
